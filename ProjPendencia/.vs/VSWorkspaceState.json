@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ProjPendencia.API",
+    "\\ProjPendencia.API\\ProjPendencia.API",
+    "\\ProjPendencia.API\\ProjPendencia.API\\Controllers",
+    "\\ProjPendencia.Test",
+    "\\ProjPendencia.Test\\bin",
+    "\\ProjPendencia.Test\\bin\\Debug",
+    "\\ProjPendencia.Test\\bin\\Release",
+    "\\ProjPendencia.Test\\obj",
+    "\\ProjPendencia.Test\\obj\\Debug",
+    "\\ProjPendencia.Test\\obj\\Release"
+  ],
+  "SelectedNode": "\\ProjPendencia.Test\\PendenciaIntegrateTest.cs",
+  "PreviewInSolutionExplorer": false
+}
